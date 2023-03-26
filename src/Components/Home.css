@@ -1,0 +1,45 @@
+.home{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    background: url(https://d33wubrfki0l68.cloudfront.net/daac8858fd4a0ccea44f59dfd079c3c16c263f33/c157c/assets/svg/common-bg.svg);
+    height: 100vh;
+}
+.side-nav{
+    background-color: white;
+    position: absolute;
+    box-shadow: 2px 2px 5px black;
+    top: 33%;
+    left: 0;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.side-nav-links{
+    padding-left: 0px;
+}
+.links{
+    padding: 0.2rem 0;
+}
+.main-content{
+    position: absolute;
+    top: 38%;
+    left: 35%;
+}
+.main-content h1{
+    font-size: 3rem;
+    opacity: 1;
+    color: rgb(72, 72, 72);
+    text-shadow: 5px 5px white;
+}
+.scroll{
+    position: absolute;
+    cursor: pointer;
+    bottom: 15px;
+    left: 39.5%;
+}
+.movement{
+    padding: 20px;
+}
+.move{
+    color: #facf0f;
+}

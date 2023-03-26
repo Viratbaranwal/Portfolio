@@ -1,0 +1,43 @@
+.Projects{
+    background-color:white;
+    padding: 7rem 0;
+}
+.main-projects{
+    max-width: 120rem;
+    margin: auto;
+    width: 92%;
+}
+
+.title1{
+    display: block;
+    text-align: center;
+    margin-bottom: 90px;
+}
+.title1 h2{
+    display: block;
+    font-size: 3.5rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 3rem;
+}
+
+.title1 h2::after{
+    content: "";
+    position: absolute;
+    top: calc(100% + 70.8rem);
+    left: 47.7%;
+    width: 4rem;
+    height: 5px;
+    background-color: #facf0f;
+}
+
+.projects-basic{
+    display: block;
+    text-align: center;
+    color: #555;
+    font-size: 1.8rem;
+    font-weight: 450;
+    max-width: 70rem;
+    margin: auto;
+    line-height: 1.6;
+}
