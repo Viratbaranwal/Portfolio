@@ -19,7 +19,7 @@ export default function Navbar() {
           <div className="main">
             <ul className='main-links'>
                 <li className="links">
-                    <a href="./">Home</a>
+                    <a href="./#Home">Home</a>
                 </li>
                 <li className="links">
                     <a href="./#About">About</a>
