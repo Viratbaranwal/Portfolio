@@ -1,9 +1,9 @@
 import React from 'react'
 import "./Home.css"
-import { FaBeer, FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa';
+import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa';
 import { SiCodechef, SiCodeforces, SiLeetcode } from 'react-icons/si';
 import Scroll from './Scroll';
-import {Typewriter, Cursor } from 'react-simple-typewriter';
+import {Typewriter } from 'react-simple-typewriter';
 
 
 
