@@ -1,6 +1,7 @@
 import React from 'react'
 import logo from './logo.png'
 import "./Navbar.css"
+// import About from './About';
 
 export default function Navbar() {
   return (
@@ -21,10 +22,10 @@ export default function Navbar() {
                     <a href="./">Home</a>
                 </li>
                 <li className="links">
-                    <a href="./">About</a>
+                    <a href="./#About">About</a>
                 </li>
                 <li className="links">
-                    <a href="./">Projects</a>
+                    <a href="./#Projects">Projects</a>
                 </li>
                 <li className="links">
                     <a href="./">Contact Me</a>
