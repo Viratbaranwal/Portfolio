@@ -48,7 +48,8 @@ export default function Home() {
       </div>
       <div className="scroll">
 
-        <Scroll/>
+        <a href="./#About">
+        <Scroll/> </a>
       </div>
     </div>
   )
