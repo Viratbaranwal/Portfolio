@@ -1,7 +1,7 @@
 .Projects{
     position: relative;
     background-color:white;
-    padding: 7rem 0;
+    padding: 5rem 0;
 }
 .main-projects{
     max-width: 120rem;
@@ -25,7 +25,7 @@
 .title1 h2::after{
     content: "";
     position: absolute;
-    top: 11.5rem;
+    top: 9.5rem;
     left: 47.7%;
     width: 4rem;
     height: 5px;
@@ -41,4 +41,45 @@
     max-width: 70rem;
     margin: auto;
     line-height: 1.6;
+}
+.projects-row{
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    grid-gap: 5rem;
+    margin-bottom: 9rem;
+}
+.image img{
+    width: 100%;
+    display: block;
+    object-fit: cover;
+}
+
+.title{
+    font-weight: 700;
+    font-size: 2.8rem;
+    margin-bottom: 2rem;
+    text-align: left;
+}
+.paragraph{
+    font-size: 1.2rem;
+}
+
+.btn{
+    
+    display: inline-block;
+    cursor: pointer;
+    background-color: #facf0f;
+    margin: 1rem 0;
+    font-size: 1rem;
+    padding: 0.8rem 2rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+.btn a{
+    text-decoration: none;
+    text-align: center;
+    color: black;
 }
