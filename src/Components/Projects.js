@@ -19,11 +19,11 @@ export default function Projects() {
                         <img src="./images/dopefolio.png" alt="" />
                     </div>
                     <div className="details">
-                        <h3 className="title">Portfolio</h3>
-                        <p className="paragraph">
+                        <h3 className="title-para">Portfolio</h3>
+                        <p className="paragraph1">
                             Portfolio is a web app in which all of my details related to my carrier are mentioned. The tech stack used in this project is ReactJs and some libraries of ReactJs are also used like React Icons, React Typewriter library etc.  
                         </p>
-                        <button className='btn'> <a href="./"> Checkout On Github </a></button>
+                        <button className='pr-btn'> <a href="./"> Checkout On Github </a></button>
                     </div>
                 </div>
                 <div className="projects-row">
@@ -31,11 +31,11 @@ export default function Projects() {
                         <img src="./images/dopefolio.png" alt="" />
                     </div>
                     <div className="details">
-                        <h3 className="title">Portfolio</h3>
-                        <p className="paragraph">
+                        <h3 className="title-para">Portfolio</h3>
+                        <p className="paragraph1">
                             Portfolio is a web app in which all of my details related to my carrier are mentioned. The tech stack used in this project is ReactJs and some libraries of ReactJs are also used like React Icons, React Typewriter library etc.  
                         </p>
-                        <button className='btn'> <a href="./"> Checkout On Github </a></button>
+                        <button className='pr-btn'> <a href="./"> Checkout On Github </a></button>
                     </div>
                 </div>
                 <div className="projects-row">
@@ -43,11 +43,11 @@ export default function Projects() {
                         <img src="./images/dopefolio.png" alt="" />
                     </div>
                     <div className="details">
-                        <h3 className="title">Portfolio</h3>
-                        <p className="paragraph">
+                        <h3 className="title-para">Portfolio</h3>
+                        <p className="paragraph1">
                             Portfolio is a web app in which all of my details related to my carrier are mentioned. The tech stack used in this project is ReactJs and some libraries of ReactJs are also used like React Icons, React Typewriter library etc.  
                         </p>
-                        <button className='btn'> <a href="./"> Checkout On Github </a></button>
+                        <button className='pr-btn'> <a href="./"> Checkout On Github </a></button>
                     </div>
                 </div>
                 <div className="projects-row">
@@ -55,11 +55,11 @@ export default function Projects() {
                         <img src="./images/dopefolio.png" alt="" />
                     </div>
                     <div className="details">
-                        <h3 className="title">Portfolio</h3>
-                        <p className="paragraph">
+                        <h3 className="title-para">Portfolio</h3>
+                        <p className="paragraph1">
                             Portfolio is a web app in which all of my details related to my carrier are mentioned. The tech stack used in this project is ReactJs and some libraries of ReactJs are also used like React Icons, React Typewriter library etc.  
                         </p>
-                        <button className='btn'> <a href="./"> Checkout On Github </a></button>
+                        <button className='pr-btn'> <a href="./"> Checkout On Github </a></button>
                     </div>
                 </div>
             </div>

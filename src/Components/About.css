@@ -62,7 +62,7 @@
 }
 
 .paragraph{
-    font-size: 1rem;
+    font-size: 0.9rem;
     color: #666;
     max-width: 60rem;
     line-height: 1.5;
@@ -76,17 +76,18 @@
     padding: 0.5rem 0.5rem;
     margin-bottom: 1.2rem;
     margin-right: 1.2rem;
-    font-size: 1rem;
+    font-size: 0.9rem;
     background: rgba(153,153,153,.2);
     border-radius: 5px;
     font-weight: 600;
     color: #666;
 }
-.btn{
+.ab-btn{
     
     display: inline-block;
     cursor: pointer;
     background-color: #facf0f;
+    border: none;
     margin: 1rem 0;
     font-size: 1rem;
     padding: 0.8rem 2.5rem;
@@ -94,10 +95,10 @@
     letter-spacing: 1px;
     font-weight: 700;
     border-radius: 5px;
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.325);
     
-
 }
-.btn a{
+.ab-btn a{
     text-decoration: none;
     text-align: center;
     color: black;

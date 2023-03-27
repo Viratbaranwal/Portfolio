@@ -54,20 +54,22 @@
     object-fit: cover;
 }
 
-.title{
+.title-para{
     font-weight: 700;
-    font-size: 2.8rem;
-    margin-bottom: 2rem;
+    font-size: 2rem;
+    margin-bottom: 1rem;
     text-align: left;
 }
-.paragraph{
+.paragraph1{
     font-size: 1.2rem;
+    margin-bottom: 1rem;
 }
 
-.btn{
+.pr-btn{
     
     display: inline-block;
     cursor: pointer;
+    border: none;
     background-color: #facf0f;
     margin: 1rem 0;
     font-size: 1rem;
@@ -76,9 +78,10 @@
     letter-spacing: 1px;
     font-weight: 700;
     border-radius: 5px;
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.325);
 
 }
-.btn a{
+.pr-btn a{
     text-decoration: none;
     text-align: center;
     color: black;

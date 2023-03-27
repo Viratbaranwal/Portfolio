@@ -26,7 +26,7 @@ export default function About() {
                         </p>
                     </div>
                     <div className="button">
-                        <button className='btn'><a href="./#ContactMe">Contact</a></button>
+                        <button className='ab-btn'><a href="./#ContactMe">Contact</a></button>
                     </div>
                 </div>
                 <div className="about-skill">

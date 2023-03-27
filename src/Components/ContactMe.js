@@ -15,7 +15,7 @@ export default function ContactMe() {
             </div>
             </div>
             <div className="form">
-                <form action="#" className='form-main'>
+                <form  method="POST" action="https://script.google.com/macros/s/AKfycbxPnl4OnZOvbau5UbxiDpH__bg0p9RRYQxUVyapUE8cVpOww_-PQEOou9u0ROKtpFQO/exec" className='form-main'>
                     <div className="main-cont">
                         <label className='form-label' htmlFor="name">Name</label>
                         <input className='form-input' type="text" name="name" id="101" placeholder='Enter Your Name'/>
@@ -26,9 +26,9 @@ export default function ContactMe() {
                     </div>
                     <div className="main-cont">
                         <label className='form-label' htmlFor="message">Message</label>
-                        <textarea required cols={30} rows={10} className="form-textarea" type="text" name="message" id="103" placeholder='Enter Your Message'/>
+                        <textarea cols={30} rows={10} className="form-textarea" type="text" name="message" id="103" placeholder='Enter Your Message'/>
                     </div>
-                    <button className='btn' type="submit">Submit</button>
+                    <button className='cn-btn' type="submit">Submit</button>
                 </form>
             </div>
         </div>
