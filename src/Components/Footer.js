@@ -2,7 +2,7 @@ import React from 'react'
 import { FaGithub, FaInstagram, FaLinkedin,FaRegCopyright } from 'react-icons/fa';
 import "./Footer.css"
 
-export default function () {
+export default function Footer() {
     const today = new Date();
   return (
         <footer className='Footer'>
