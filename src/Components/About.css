@@ -11,6 +11,7 @@
 
 .title{
     display: block;
+    position: relative;
     text-align: center;
     margin-bottom: 90px;
 }
@@ -25,7 +26,7 @@
 .title h2::after{
     content: "";
     position: absolute;
-    top: 11.3rem;
+    top: 4.3rem;
     left: 47.7%;
     width: 4rem;
     height: 5px;
@@ -64,7 +65,7 @@
     font-size: 1rem;
     color: #666;
     max-width: 60rem;
-    line-height: 1.7;
+    line-height: 1.5;
     margin-bottom: 1rem;
 }
 .skills{
@@ -72,7 +73,7 @@
     flex-wrap: wrap;
 }
 .skill-box{
-    padding: 1rem 1rem;
+    padding: 0.5rem 0.5rem;
     margin-bottom: 1.2rem;
     margin-right: 1.2rem;
     font-size: 1rem;

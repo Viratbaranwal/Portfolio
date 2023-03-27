@@ -1,7 +1,6 @@
 import React from 'react'
 import logo from './logo.png'
 import "./Navbar.css"
-// import About from './About';
 
 export default function Navbar() {
   return (

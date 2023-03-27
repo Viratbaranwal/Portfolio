@@ -25,7 +25,7 @@
 .title1 h2::after{
     content: "";
     position: absolute;
-    top: 9.5rem;
+    top: 9.3rem;
     left: 47.7%;
     width: 4rem;
     height: 5px;
