@@ -16,52 +16,29 @@ export default function Projects() {
             <div className="projects-main">
                 <div className="projects-row">
                     <div className="image">
-                        <img src="./images/dopefolio.png" alt="" />
+                        <img src="./images/dopefolio1.png" alt="" />
                     </div>
                     <div className="details">
-                        <h3 className="title-para">Portfolio</h3>
+                        <h3 className="title-para">CryptoQuester</h3>
                         <p className="paragraph1">
-                            Portfolio is a web app in which all of my details related to my carrier are mentioned. The tech stack used in this project is ReactJs and some libraries of ReactJs are also used like React Icons, React Typewriter library etc.  
+                            CryptoQuester is a web app in which one can track all the Cryptocurrencies on various basis and can also see the trending coins. The tech stack used in this project is ReactJs and API along with ChartJs.  
                         </p>
-                        <button className='pr-btn'> <a href="./"> Checkout On Github </a></button>
+                        <button className='pr-btn'> <a href="https://github.com/Viratbaranwal/CryptoQuester"> Checkout On Github </a></button>
                     </div>
                 </div>
                 <div className="projects-row">
                     <div className="image">
-                        <img src="./images/dopefolio.png" alt="" />
+                        <img src="./images/dopefolio2.png" alt="" />
                     </div>
                     <div className="details">
-                        <h3 className="title-para">Portfolio</h3>
+                        <h3 className="title-para">TicTacToe</h3>
                         <p className="paragraph1">
-                            Portfolio is a web app in which all of my details related to my carrier are mentioned. The tech stack used in this project is ReactJs and some libraries of ReactJs are also used like React Icons, React Typewriter library etc.  
+                            TicTacToe is a web app in which two friends can play the game with a rich UI experince. It also counts the score and announce the overall winner of the game. The tech stack used in this project is HTML, CSS, JavaScript.  
                         </p>
-                        <button className='pr-btn'> <a href="./"> Checkout On Github </a></button>
+                        <button className='pr-btn'> <a href="https://github.com/Viratbaranwal/TIc-Tac-Toe"> Checkout On Github </a></button>
                     </div>
                 </div>
-                <div className="projects-row">
-                    <div className="image">
-                        <img src="./images/dopefolio.png" alt="" />
-                    </div>
-                    <div className="details">
-                        <h3 className="title-para">Portfolio</h3>
-                        <p className="paragraph1">
-                            Portfolio is a web app in which all of my details related to my carrier are mentioned. The tech stack used in this project is ReactJs and some libraries of ReactJs are also used like React Icons, React Typewriter library etc.  
-                        </p>
-                        <button className='pr-btn'> <a href="./"> Checkout On Github </a></button>
-                    </div>
-                </div>
-                <div className="projects-row">
-                    <div className="image">
-                        <img src="./images/dopefolio.png" alt="" />
-                    </div>
-                    <div className="details">
-                        <h3 className="title-para">Portfolio</h3>
-                        <p className="paragraph1">
-                            Portfolio is a web app in which all of my details related to my carrier are mentioned. The tech stack used in this project is ReactJs and some libraries of ReactJs are also used like React Icons, React Typewriter library etc.  
-                        </p>
-                        <button className='pr-btn'> <a href="./"> Checkout On Github </a></button>
-                    </div>
-                </div>
+                
             </div>
         </div>
         </div>
