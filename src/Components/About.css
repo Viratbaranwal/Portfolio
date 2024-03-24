@@ -81,6 +81,7 @@
     border-radius: 5px;
     font-weight: 600;
     color: #666;
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.15);
 }
 .ab-btn{
     
@@ -95,7 +96,7 @@
     letter-spacing: 1px;
     font-weight: 700;
     border-radius: 5px;
-    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.325);
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.15);
     
 }
 .ab-btn a{
